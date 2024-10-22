@@ -1,0 +1,38 @@
+body{
+
+    .principal{
+        border: 1px solid black;
+        padding: 20px;
+    }
+
+    h1{
+        margin-left: 65%;
+        font-family: 'Simplifica', sans-serif;
+        background-color: lightblue;
+    }
+
+    img{
+        position: fixed;
+        top: 0%;
+        left: 0;
+    }
+
+    h4{
+        color: red;
+        margin-left: 65%;
+        background-color: lightblue;
+    }
+
+
+    #comprar{
+        float: left;
+        color: green;
+        text-align: left
+    }
+
+    #carrito{
+        color: green;
+        float: right;
+    }
+    
+}

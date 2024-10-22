@@ -1,0 +1,38 @@
+/**/
+
+body {
+
+
+
+    background-color: rgb(26, 13, 13);
+
+    p, span{
+        color: whitesmoke;
+    }
+
+    h1, h2, h3, h4{
+        color: rgb(187, 117, 13);
+    }
+
+    .myDiv{ /*aqui estamos "anidando", solo para el h1 "myDiv", y todavía podemos anidar en este*/
+        color: rgb(92, 255, 71);
+    }
+
+    .peliculas{
+        color: red;
+    }
+    #primeraPeli{
+        color: blue;
+    }
+
+    .Canciones{
+        color: green;
+        size: landscape;
+    }
+    #primeraCancion{
+        color: orange;
+    }
+}
+
+/*Selector "class" que es un iedntificador. Si tengo la clase "myDiv" entonces la anoto aqui como ".myDiv"*/
+/*Para id es: #nombreId*/
